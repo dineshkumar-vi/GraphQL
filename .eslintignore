@@ -1,0 +1,9 @@
+node_modules/*
+*.sh
+.dockerignore
+.gitignore
+Dockerfile
+*.log
+pacakge.json
+jest.config.js
+*.test.js
